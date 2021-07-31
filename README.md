@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href= "https://github.com/Milafreire/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+    <img src="https://image.flaticon.com/icons/png/512/37/37819.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/camilabsfreire/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
@@ -20,9 +20,9 @@
   <a href="mailto:camilabsfreire@gmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
-  <a href="https://stackexchange.com/users/22053644/mila-freire">
-    <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
-  </a>
+  <a href="https://discord.gg/VK4k3Br">
+  <img width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
   
 
   
