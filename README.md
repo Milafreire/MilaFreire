@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href= "https://github.com/Milafreire/">
-    <img src="https://image.flaticon.com/icons/png/512/37/37819.png"/>
+    <img width="21px" src="https://image.flaticon.com/icons/png/512/37/37819.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/camilabsfreire/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
