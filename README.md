@@ -1,5 +1,5 @@
 <p align="center">
-  <i>Bem vindo ao meu repositório, ainda estou aprendendo, mas em breve serei uma ULTRA MEGA DEV FULL STACK! Assim espero (❤ ω ❤)</i>
+  <i>Bem vindo ao meu GitHub, ainda estou aprendendo, mas em breve serei uma ULTRA MEGA DEV FULL STACK! Assim espero (❤ ω ❤)</i>
 
 <p align="center">
   <a href= "https://github.com/Milafreire/">
