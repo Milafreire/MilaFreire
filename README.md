@@ -1,9 +1,10 @@
 <p align="center">
-  <i>Bem vindo ao meu GitHub, ainda estou aprendendo, mas em breve serei uma ULTRA MEGA DEV FULL STACK! Assim espero! <a href= "https://github.com/Milafreire/">
-    <img width="21px" alt="GitHub" src="https://image.flaticon.com/icons/png/512/37/37819.png"/>
-  </a>
+  <i>Bem vindo ao meu GitHub, ainda estou aprendendo, mas em breve espero me tornar uma Dev de verdade!
     
 <p align="center">
+  <a href= "https://github.com/Milafreire/">
+    <img width="21px" alt="GitHub" src="https://image.flaticon.com/icons/png/512/37/37819.png"/>
+  </a>
     <a href= "https://www.linkedin.com/in/camilabsfreire/">
     <img width="21px" alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/1384/1384046.png"/>
   </a>
@@ -18,9 +19,6 @@
   </a>
   <a href="https://discord.gg/VK4k3Br">
   <img width="21px" alt="Discord" src="https://image.flaticon.com/icons/png/512/2111/2111363.png" />
-</a>
-  
-
-  
+</a> 
 </p>
 
