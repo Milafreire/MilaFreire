@@ -21,4 +21,7 @@
   <img width="21px" alt="Discord" src="https://image.flaticon.com/icons/png/512/2111/2111363.png" />
 </a> 
 </p>
+    <a href="https://github.com/MilaFreire/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.MilaFreire1.vercel.app/api?username=MilaFreire&show_icons=true&include_all_commits=true&theme=material-palenight"/>
+</a>
 
