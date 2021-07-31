@@ -23,5 +23,9 @@
   <a href="https://stackexchange.com/users/22053644/mila-freire">
     <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
   </a>
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
