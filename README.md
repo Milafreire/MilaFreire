@@ -23,11 +23,8 @@
   <a href="https://stackexchange.com/users/22053644/mila-freire">
     <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
   </a>
-    
-  [! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = anuraghazra & layout = compact )] (https://github.com/anuraghazra/github-readme- Estatísticas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  [! [estatísticas wakatime de willianrod] (https://github-readme-stats.vercel.app/api/wakatime ? username = MilaFreire )] (https://github.com/anuraghazra/github-readme-stats)
-  
   
 </p>
 
