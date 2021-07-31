@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <i>Bem vindo ao meu repositório, ainda estou aprendendo, mas em breve serei uma ULTRA MEGA DEV FULL STACK!</i>
 
