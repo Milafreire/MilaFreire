@@ -21,9 +21,9 @@
   <img width="21px" alt="Discord" src="https://image.flaticon.com/icons/png/512/2111/2111363.png" />
 </a> 
 </p>
-     <div>
+Language Statistics
   <a href="https://github.com/MilaFreire>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilaFreire&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaFreire&layout=compact&langs_count=7&theme=bear"/>
-</div>
+
 
