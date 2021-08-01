@@ -1,6 +1,5 @@
-<p align="center">>
-  <i>Bem vindo ao meu GitHub, ainda estou aprendendo, mas em breve espero me tornar uma DevFullStack!
-    
+<p align="center">
+Bem vindo ao meu GitHub, ainda estou aprendendo, mas em breve espero me tornar uma Desenvolvedora de sucesso!    
 <p align="center">
   <a href= "https://github.com/Milafreire/">
     <img width="21px" alt="GitHub" src="https://image.flaticon.com/icons/png/512/37/37819.png"/>
@@ -19,8 +18,7 @@
   </a>
   <a href="https://discord.gg/VK4k3Br">
   <img width="21px" alt="Discord" src="https://image.flaticon.com/icons/png/512/2111/2111363.png" />
-</a> 
-</p>
+</a></p>
 <div>
 <p align="center">>
   <a href="https://github.com/MilaFreire>
