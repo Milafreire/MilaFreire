@@ -1,5 +1,5 @@
 <p align="center">
-Bem vindo ao meu GitHub, ainda estou aprendendo, mas em breve espero me tornar uma Desenvolvedora de sucesso!    
+Bem vindo ao meu GitHub, ainda estou aprendendo, mas em breve espero me tornar uma Dev de sucesso!    
 <p align="center">
   <a href= "https://github.com/Milafreire/">
     <img width="21px" alt="GitHub" src="https://image.flaticon.com/icons/png/512/37/37819.png"/>
