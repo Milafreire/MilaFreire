@@ -20,7 +20,7 @@ Bem vindo ao meu GitHub, ainda estou aprendendo, mas em breve espero me tornar u
   <img width="21px" src="https://image.flaticon.com/icons/png/512/2111/2111363.png"/>
 </a></p>
 <div>
-<p align="center">>
+<p align="center">
   <a href="https://github.com/MilaFreire>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MilaFreire&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaFreire&layout=compact&langs_count=7&theme=buefy"/></a>
