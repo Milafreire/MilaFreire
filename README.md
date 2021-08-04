@@ -23,7 +23,7 @@ Bem vindo ao meu GitHub, ainda estou aprendendo, mas em breve espero me tornar u
 <p align="center">
   <a href="https://github.com/MilaFreire>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MilaFreire&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaFreire&layout=compact&langs_count=7&theme=buefy"/>                                     <img vspace="2px" align="right" alt="Hehe" width="250" src="https://media.giphy.com/media/A4dZk9ffOslbbElGLV/giphy.gif"> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaFreire&layout=compact&langs_count=7&theme=buefy"/>                                     <img vspace="80px" align="right" alt="Hehe" width="250" src="https://media.giphy.com/media/A4dZk9ffOslbbElGLV/giphy.gif"> 
   </a>
 
 </p>
