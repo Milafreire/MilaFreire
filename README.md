@@ -1,5 +1,5 @@
 <p align="center">
-Bem vindx, ainda estou aprendendo, em breve espero me tornar uma Dev de sucesso! Enquanto isso me segue nas redes!
+Bem vindx, ainda estou aprendendo, em breve espero me tornar uma Dev de sucesso!
 <p align="center">
   <a href= "https://github.com/Milafreire/">
     <img width="21px" alt="GitHub" src="https://image.flaticon.com/icons/png/512/37/37819.png"/>
