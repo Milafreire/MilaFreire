@@ -8,7 +8,7 @@ Bem vindx, ainda estou aprendendo, em breve espero me tornar uma Dev de sucesso!
     <img width="30px" alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/1384/1384046.png"/>
   </a>
     <a href="mailto:camilabsfreire@gmail.com">
-    <img width="30px" src="https://image.flaticon.com/icons/png/512/683/683155.png"/ alt="E-mail">
+    <img alt="E-mail" width="30px" src="https://image.flaticon.com/icons/png/512/683/683155.png"/>
   </a>
   <a href= "https://twitter.com/camissfreire">
     <img width="30px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/733/733635.png"/>
