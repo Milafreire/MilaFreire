@@ -16,7 +16,7 @@ Bem vindx, ainda estou aprendendo, em breve espero me tornar uma Dev de sucesso!
      <a href="https://www.twitch.tv/camilabsf">
     <img width="30px" alt="Twitch TV" src="https://image.flaticon.com/icons/png/512/2111/2111727.png"/>
   </a>
-  <a href="https://discord.gg/VK4k3Br">
+  <a href="https://discord.gg/WEbf6wxP">
   <img width="30px" src="https://image.flaticon.com/icons/png/512/2111/2111363.png"/>
 </a></p>
 <div>
