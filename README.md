@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 Bem vindx, ainda estou aprendendo, em breve espero me tornar uma Dev de sucesso!
  <details><summary><b>🖖 Redes sociais</b></summary>
 <p align="center">
