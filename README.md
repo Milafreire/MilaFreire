@@ -1,17 +1,16 @@
 <div align='left'><h1>Hello World! Bem vindo(a) ao meu Github!</h1>
 <a href= "https://github.com/Milafreire/">
-<img width="35px" alt="GitHub" src="https://image.flaticon.com/icons/png/512/37/37819.png"/></a>
+<img width="35px" alt="GitHub" src="https://image.flaticon.com/icons/png/128/733/733553.png"/></a>
 <a href= "https://www.linkedin.com/in/camilabsfreire/">
-<img width="35px" alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/1384/1384046.png"/></a>
+<img width="35px" alt="LinkedIn" src="https://image.flaticon.com/icons/png/128/185/185964.png"/></a>
 <a href="mailto:camilabsfreire@gmail.com">
-<img alt="E-mail" width="35px" src="https://image.flaticon.com/icons/png/512/683/683155.png"/>
-</a>
+<img alt="E-mail" width="35px" src="https://image.flaticon.com/icons/png/128/270/270021.png"/></a>
 <a href= "https://twitter.com/camissfreire">
-<img width="35px" alt="Twitter" src="https://image.flaticon.com/icons/png/512/733/733635.png"/></a>
+<img width="35px" alt="Twitter" src="https://image.flaticon.com/icons/png/128/145/145812.png"/></a>
 <a href="https://www.twitch.tv/camilabsf">
-<img width="35px" alt="Twitch TV" src="https://image.flaticon.com/icons/png/512/2111/2111727.png"/></a>
+<img width="35px" alt="Twitch TV" src="https://image.flaticon.com/icons/png/128/356/356001.png"/></a>
 <a href="https://discord.gg/WEbf6wxP">
-<img width="35px" src="https://image.flaticon.com/icons/png/512/2111/2111363.png"/></a>
+<img width="35px" src="https://image.flaticon.com/icons/png/128/906/906361.png"/></a>
 </div>
 
 
