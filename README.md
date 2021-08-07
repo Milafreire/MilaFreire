@@ -1,5 +1,6 @@
 <p align="center">
 Bem vindx, ainda estou aprendendo, em breve espero me tornar uma Dev de sucesso!
+ <details><summary><b>🖖 Redes sociais</b></summary>
 <p align="center">
   <a href= "https://github.com/Milafreire/">
     <img width="35px" alt="GitHub" src="https://image.flaticon.com/icons/png/512/37/37819.png"/>
@@ -18,7 +19,7 @@ Bem vindx, ainda estou aprendendo, em breve espero me tornar uma Dev de sucesso!
   </a>
   <a href="https://discord.gg/WEbf6wxP">
   <img width="35px" src="https://image.flaticon.com/icons/png/512/2111/2111363.png"/>
-</a></p>
+  </a></p></details>
 
 
 <details>	
