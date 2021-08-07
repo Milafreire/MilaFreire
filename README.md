@@ -19,13 +19,17 @@ Bem vindx, ainda estou aprendendo, em breve espero me tornar uma Dev de sucesso!
   <a href="https://discord.gg/WEbf6wxP">
   <img width="35px" src="https://image.flaticon.com/icons/png/512/2111/2111363.png"/>
 </a></p>
-<div>
+
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<div>  
 <p align="center">
   <a href="https://github.com/MilaFreire>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MilaFreire&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaFreire&layout=compact&langs_count=7&theme=buefy"/>
 <img align="top" width="140" src="https://media.giphy.com/media/FNBvO1cg4G2DkZE3fa/giphy.gif"></a>
-</p>
+</p></details>
 </div>
 
 
