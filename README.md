@@ -9,7 +9,7 @@
 <img width="35px" alt="Twitter" src="https://image.flaticon.com/icons/png/128/145/145812.png"/></a>
 <a href="https://www.twitch.tv/camilabsf">
 <img width="35px" alt="Twitch TV" src="https://image.flaticon.com/icons/png/128/356/356001.png"/></a>
-<a href="https://discord.gg/WEbf6wxP">
+<a href="https://discord.gg/zY2JHHxC">
 <img width="35px" src="https://image.flaticon.com/icons/png/128/906/906361.png"/></a>
 </div>
 
