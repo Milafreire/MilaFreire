@@ -1,6 +1,6 @@
 <div align='left'><h1>Hello World! Bem vindo(a) ao meu Github!</h1>
-<a href= "https://github.com/Milafreire/">
-<img width="35px" alt="GitHub" src="https://image.flaticon.com/icons/png/128/733/733553.png"/></a>
+<a href= "https://pt.stackoverflow.com/users/244762/mila-freire">
+<img width="35px" alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/></a>
 <a href= "https://www.linkedin.com/in/camilabsfreire/">
 <img width="35px" alt="LinkedIn" src="https://image.flaticon.com/icons/png/128/185/185964.png"/></a>
 <a href="mailto:camilabsfreire@gmail.com">
