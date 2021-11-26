@@ -1,7 +1,7 @@
 <div align='left'><h1>Hello World! Bem vindo(a) ao meu Github!</h1>
 <a href= "https://pt.stackoverflow.com/users/244762/mila-freire"><img width="35px" src="https://www.iconsdb.com/icons/preview/gray/stackoverflow-4-xxl.png"/></a>
 <a href= "https://www.linkedin.com/in/camilabsfreire/">
-<img width="35px" alt="LinkedIn" src="https://img2.gratispng.com/20180419/hoe/kisspng-computer-icons-stack-overflow-computer-software-stack-5ad84b6fa82483.2128878515241245276887.jpg"/></a>
+<img width="35px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
 <a href="mailto:camilabsfreire@gmail.com">
 <img alt="E-mail" width="35px" src="https://image.flaticon.com/icons/png/128/270/270021.png"/></a>
 <a href= "https://twitter.com/camissfreire">
