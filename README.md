@@ -1,5 +1,5 @@
 <div align='left'><h1>Hello World! Bem vindo(a) ao meu Github!</h1>
-<a href= "https://pt.stackoverflow.com/users/244762/mila-freire"><img width="35px" src="https://www.iconsdb.com/icons/preview/gray/stackoverflow-4-xxl.png"/></a>
+<a href= "https://pt.stackoverflow.com/users/244762/mila-freire"><img width="35px" src="https://icons-for-free.com/iconfiles/png/512/media+social+square+stackoverflow+icon-1320185557326369004.png"/></a>
 <a href= "https://www.linkedin.com/in/camilabsfreire/">
 <img width="35px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
 <a href="mailto:camilabsfreire@gmail.com">
