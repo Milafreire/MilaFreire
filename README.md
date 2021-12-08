@@ -9,8 +9,7 @@
 <a href="https://www.twitch.tv/camilabsf">
 <img width="35px" alt="Twitch TV" src="https://image.flaticon.com/icons/png/128/356/356001.png"/></a>
 <a href="https://web.dio.me/users/camilabsfreire?tab=achievements">
-<img width="35px" src="https://hermes.digitalinnovation.one/assets/diome/logo.png"/></a>
-</div>
+<img width="35px" src="https://im.promobit.com.br/553454381316061499071928528978.png"/></a>
 <a href="https://wakatime.com/@MilaFreire">
 <img width="35px" src="https://avatars.githubusercontent.com/u/4814844?s=280&v=4"/></a>
 </div>
