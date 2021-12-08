@@ -7,11 +7,12 @@
 <img width="35px" alt="Twitter" src="https://image.flaticon.com/icons/png/128/145/145812.png"/></a>
 <a href="https://discord.gg/npvQpbYM8A">
 <img width="35px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"/></a>
-<a href="https://web.dio.me/users/camilabsfreire?tab=achievements">
-<img width="35px" src="https://im.promobit.com.br/553454381316061499071928528978.png"/></a>
- <a href= "https://pt.stackoverflow.com/users/244762/mila-freire"><img width="35px" src="https://icons-for-free.com/iconfiles/png/512/media+social+square+stackoverflow+icon-1320185557326369004.png"/></a>
 <a href="https://wakatime.com/@MilaFreire">
 <img width="35px" src="https://avatars.githubusercontent.com/u/4814844?s=280&v=4"/></a>
+<a href="https://web.dio.me/users/camilabsfreire?tab=achievements">
+<img width="35px" src="https://christyschott.github.io/portfolio.github.io/assets/img/about/7.png"/></a>
+<a href= "https://pt.stackoverflow.com/users/244762/mila-freire"><img width="35px" src="https://icons-for-free.com/iconfiles/png/512/media+social+square+stackoverflow+icon-1320185557326369004.png"/></a>
+
 </div>
 
 
