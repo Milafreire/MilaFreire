@@ -17,7 +17,7 @@
 
 
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
-<p>Me chamo Camila Barros, sou estudante de Análises de Sistemas e Ciências Contábeis, estou aprendendo a codar aos poucos. </p>
+<p>Me chamo Camila Barros, sou estudante de Análises de Sistemas e estou aprendendo a codar aos poucos. </p>
 </div>
 
 <div><p><summary><b>⚡ Github Stats</b></summary></p>
