@@ -17,7 +17,7 @@
 
 
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
-<p>Me chamo Camila Barros, sou estudante de Análises de Sistemas e estou aprendendo a codar aos poucos. Atualmente estagio no Backend mas também tenho apreço pela área de análise de dados.</p>
+<p>Me chamo Camila Barros, sou estudante de Análises de Sistemas pela Maurício de Nassau, ja cursei Ciências Contabeis pela UFPB e estou aprendendo a codar aos poucos. Atualmente estagio no Backend mas também tenho apreço pela área de análise de dados.</p>
 </div>
 
 <div><p><summary><b>⚡ Github Stats</b></summary></p>
