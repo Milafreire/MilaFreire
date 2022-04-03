@@ -19,6 +19,7 @@
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
 <p>Me chamo Camila Barros, sou estudante de Análises de Sistemas pela Maurício de Nassau, ja cursei Ciências Contabeis pela UFPB e estou aprendendo a codar aos poucos. Atualmente estagio na área de Backend e estudo pela Alura (pela oportunidade dada pelo Desenvolve Boticário <3), também tenho apreço pela área de análise de dados com Numpy & Pandas.</p>
 </div>
+Todos meus certificados de estudo pela Alura: https://cursos.alura.com.br/user/camilabsfreire/fullCertificate/8a52a98ac4f0017c250f3f7f1af7f5f4
 
 <div><p><summary><b>⚡ Github Stats</b></summary></p>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilaFreire&layout=compact&langs_count=7&theme=buefy"/>
