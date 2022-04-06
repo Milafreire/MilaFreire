@@ -17,7 +17,7 @@
 
 
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
-<p>Me chamo Camila Barros, sou estudante de Análises de Sistemas pela Maurício de Nassau, ja cursei Ciências Contabeis pela UFPB e estou aprendendo a codar aos poucos. Atualmente estagio na área de Backend e estudo pela Alura (pela oportunidade dada pelo Desenvolve Boticário <3), também tenho apreço pela área de análise de dados com Numpy & Pandas.</p>
+<p>Me chamo Camila Barros, sou estudante de Análises de Sistemas pela Maurício de Nassau, ja cursei Ciências Contabeis pela UFPB e estou aprendendo a codar aos poucos. Atualmente estagio na área de Dados e estudo pela Alura (pela oportunidade dada pelo Desenvolve Boticário <3), tenho apreço pela área de análise de dados com Numpy & Pandas e Backend.</p>
 </div>
 Todos meus certificados de estudo pela Alura: https://cursos.alura.com.br/user/camilabsfreire/fullCertificate/8a52a98ac4f0017c250f3f7f1af7f5f4
 
