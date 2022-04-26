@@ -3,8 +3,6 @@
 <img width="35px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
 <a href="mailto:camilabsfreire@gmail.com">
 <img alt="E-mail" width="35px" src="https://cdn-icons-png.flaticon.com/128/270/270021.png"/></a>
-<a href= "https://twitter.com/camissfreire">
-<img width="35px" alt="Twitter" src="https://cdn-icons-png.flaticon.com/128/145/145812.png"/></a>
 <a href="https://discord.gg/npvQpbYM8A">
 <img width="35px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"/></a>
 <a href="https://wakatime.com/@MilaFreire">
