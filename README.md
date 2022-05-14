@@ -6,7 +6,7 @@
 <a href="https://discord.gg/npvQpbYM8A">
 <img width="35px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"/></a>
 <a href="https://web.dio.me/users/camilabsfreire?tab=achievements"><img width="35px" src="https://christyschott.github.io/portfolio.github.io/assets/img/about/7.png"/></a>
-<a href=" https://discord.gg/23txqxe9HZ"><img width="35px" src="https://cdn.iconscout.com/icon/free/png-256/discord-3691244-3073764.png"/></a>
+<a href="https://discord.gg/23txqxe9HZ"><img width="35px" src="https://cdn.iconscout.com/icon/free/png-256/discord-3691244-3073764.png"/></a>
 <a href= "https://pt.stackoverflow.com/users/244762/mila-freire"><img width="35px" src="https://icons-for-free.com/iconfiles/png/512/media+social+square+stackoverflow+icon-1320185557326369004.png"/></a>
 <a href= "https://cursos.alura.com.br/user/camilabsfreire/fullCertificate/8a52a98ac4f0017c250f3f7f1af7f5f4"><img width="35px" src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/fa/e8/f0fae8d6-5189-1093-887a-f81565eefa79/source/60x60bb.jpg"/></a>
 <a href="https://wakatime.com/@MilaFreire"><img width="35px" src="https://avatars.githubusercontent.com/u/4814844?s=280&v=4"/></a>
