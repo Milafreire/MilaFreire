@@ -3,8 +3,6 @@
 <img width="35px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
 <a href="mailto:camilabsfreire@gmail.com">
 <img alt="E-mail" width="35px" src="https://cdn-icons-png.flaticon.com/128/270/270021.png"/></a>
-<a href="https://discord.gg/npvQpbYM8A">
-<img width="35px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"/></a>
 <a href="https://web.dio.me/users/camilabsfreire?tab=achievements"><img width="35px" src="https://christyschott.github.io/portfolio.github.io/assets/img/about/7.png"/></a>
 <a href="https://discord.gg/23txqxe9HZ"><img width="35px" src="https://cdn.iconscout.com/icon/free/png-256/discord-3691244-3073764.png"/></a>
 <a href= "https://pt.stackoverflow.com/users/244762/mila-freire"><img width="35px" src="https://icons-for-free.com/iconfiles/png/512/media+social+square+stackoverflow+icon-1320185557326369004.png"/></a>
