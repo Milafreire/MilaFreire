@@ -1,4 +1,5 @@
 <div align='left'><h1>Hello World! Bem vindo(a) ao meu Github!</h1>
+  <img align="top" width="140" src="https://media.giphy.com/media/FNBvO1cg4G2DkZE3fa/giphy.gif">
 <a href= "https://www.linkedin.com/in/camilabsfreire/">
 <img width="35px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
 <a href="mailto:camilabsfreire@gmail.com">
@@ -17,7 +18,6 @@ Atualmente sou Júnior de Engenharia de Dados pela <a href="https://blueshift.co
                                                                                                                            
 </div>
 <div><p><summary><b>⚡ Github Stats & Tecnologias</b></summary></p>
-<img align="top" width="140" src="https://media.giphy.com/media/FNBvO1cg4G2DkZE3fa/giphy.gif">
 </p></div><p>
 <img width="35px" src="https://cdn-icons-png.flaticon.com/128/873/873107.png"/><img width="35px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"/><img width="35px" src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png"/><img width="35px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/><img width="35px" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"/><img width="35px" src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png"/><img width="35px" src="https://cdn-icons-png.flaticon.com/128/888/888859.png"/><img width="35px" src="https://cdn-icons-png.flaticon.com/128/888/888847.png"/></p>
 
