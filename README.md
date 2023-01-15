@@ -1,4 +1,4 @@
-<div align='left'><h1>Hello World! Bem vindo(a) ao meu Github!   <img align="top" width="140" src="https://media.giphy.com/media/FNBvO1cg4G2DkZE3fa/giphy.gif"></h1>
+<div align='left'><h1>Hello World! Bem vindo(a) ao meu Github!   <img align="top" width="140" src="https://media.giphy.com/media/FNBvO1cg4G2DkZE3fa/giphy.gif"></h1></div>
 
 
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
