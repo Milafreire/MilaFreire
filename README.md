@@ -2,8 +2,7 @@
 
 
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
-<p>Me chamo Camila Barros, formada em Análise de Sistemas e cursando especialização em Cibersegurança, Ciência de Dados e Proteção de Dados, ja cursei Ciências Contabeis pela UFPB.</br>
-Atualmente sou Júnior de Engenharia de Dados pela <a href="https://blueshift.com.br/" target="_blank">Blueshift Brasil</a>  e estudo pela <a href="https://alura.com.br" target="_blank">Alura</a> (pela oportunidade dada pelo <a href="https://desenvolve.grupoboticario.com.br/" target="_blank">Desenvolve Boticário</a>).
+<p>Me chamo Camila Barros, formada em Análise de Sistemas e cursando especialização em Cibersegurança, Ciência de Dados e Proteção de Dados, ja cursei Ciências Contabeis pela UFPB.</br>Atualmente sou Júnior de Engenharia de Dados pela <a href="https://blueshift.com.br/" target="_blank">Blueshift Brasil</a>
                                                                                                                            
 </div>
 <div><p><summary><b>⚡ Github Stats & Tecnologias</b></summary></p>
