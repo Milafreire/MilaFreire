@@ -2,7 +2,7 @@
 
 
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
-<p>Me chamo Camila Barros, formada em Análise de Sistemas e cursando especialização em Cibersegurança, Ciência de Dados e Proteção de Dados na UNINASSAU, ja cursei Ciências Contabeis pela UFPB. Atualmente sou Engenharia de Dados Júnior com foco em ser Pleno/Senior. Desenvolvimento é apenas um hobbie a parte.
+<p>Me chamo Camila Barros, formada em Análise de Sistemas, ja cursei Ciências Contabeis pela UFPB. Atualmente sou Engenharia de Dados Júnior com foco em ser Pleno/Senior. Desenvolvimento é apenas um hobbie a parte.
                                                                                                                            
 </div>
 <div><p><summary><b>⚡ Github Stats & Tecnologias</b></summary></p>
