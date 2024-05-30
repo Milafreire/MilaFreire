@@ -2,7 +2,7 @@
 
 
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
-<p>Me chamo Camila Barros, formada em Análise de Sistemas, ja cursei Ciências Contabeis pela UFPB. Atualmente sou Engenheira de Dados.
+<p>Me chamo Camila Barros, formada em Análise e Desenvolvimento de Sistemas. Atualmente sou Engenheira de Dados.
 
 
 
