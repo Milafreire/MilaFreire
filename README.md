@@ -2,7 +2,7 @@
 
 
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
-<p>Me chamo Camila Barros, formada em Análise e Desenvolvimento de Sistemas. Atualmente sou Engenheira de Dados.
+<p>Me chamo Camila Barros, Analista e Desenvolvedora de Sistemas. Atualmente sou Engenheira de Dados, cursando pós em Ciência de Dados pela USP/Esalq.
 
 
 
