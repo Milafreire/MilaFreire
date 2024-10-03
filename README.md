@@ -2,7 +2,7 @@
 
 
 <div><p><summary><b>🤙 Sobre mim</b></summary></p>
-<p>Me chamo Camila Barros. Contadora, Analista e Desenvolvedora de Sistemas, atualmente sou Engenheira de Dados, cursando pós em Engenharia, infraestrutura e governança de dados pela Unipê/JoãoPessoa.
+<p>Me chamo Camila Barros. Contadora, Analista e Desenvolvedora de Sistemas, atualmente sou Engenheira de Dados, cursando pós em Engenharia, Infraestrutura e Governança de dados pela Unipê/JoãoPessoa.
 
 
 
